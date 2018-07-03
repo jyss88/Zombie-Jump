@@ -51,4 +51,4 @@ The game was written using the [ZDK library](https://github.com/jyss88/Zombie-Ju
 
 This project was developed without a good understanding on the function of header files. As such, the structure is somewhat unorthodox, with header files containing code that should really belong in a separate .c file. 
 
-This project was submitted in 2016 as an assessment piece for the subject Microprocessors and Digital Systems (course code CAB202) at QUT, where it recieved a grade of high distinction.
+This project was originally submitted in 2016 as an assessment piece for the subject Microprocessors and Digital Systems (course code CAB202) at QUT, where it recieved a grade of high distinction.
